@@ -29,6 +29,7 @@ h1 {
 	border-color: white;
 	color: white;
 	display: flex;
+	justify-content: center;
 	margin: 0px auto;
 	transition: all 1s;
 }
